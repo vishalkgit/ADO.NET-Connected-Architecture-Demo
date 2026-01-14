@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADO.NET Connected Architecture Demo", "ADO.NET Connected Architecture Demo\ADO.NET Connected Architecture Demo.csproj", "{0999F99E-EDAF-450C-B888-71E9230C666E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0999F99E-EDAF-450C-B888-71E9230C666E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0999F99E-EDAF-450C-B888-71E9230C666E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0999F99E-EDAF-450C-B888-71E9230C666E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0999F99E-EDAF-450C-B888-71E9230C666E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CAE8F42-2FEE-4493-A93C-2FB2A6F40D6A}
+	EndGlobalSection
+EndGlobal
