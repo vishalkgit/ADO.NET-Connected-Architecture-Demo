@@ -24,6 +24,7 @@ namespace ADO.NET_Connected_Architecture_Demo
             conn = new SqlConnection(ConfigurationManager.ConnectionStrings["DefaultConn"].ConnectionString);
         }
 
+        //clear textbox meethod
         private void ClearFormFields()
         {
             txtid.Clear();
